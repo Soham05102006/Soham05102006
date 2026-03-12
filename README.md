@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Soham05102006/Soham05102006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a B.Tech Information Technology student passionate about building real-world tech projects.
+🚀 I'm currently working on Full Stack Web Development projects and improving my coding skills.
+🤝 I'm looking to collaborate on open-source projects, web applications, and student tech projects.
+🧠 I'm currently learning Java, Data Structures & Algorithms, and Backend Development.
+💬 Ask me about Java, Web Development, GitHub, and beginner coding projects.
+⚡ Fun fact: I love turning ideas into working websites and learning new tech every day!
 
-Here are some ideas to get you started:
+🛠️ Tech I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+
+HTML, CSS, JavaScript
+
+React
+
+Git & GitHub
+
+REST APIs
+
+🎯 Goals
+
+Become a skilled Software Developer
+
+Build impactful real-world projects
+
+Contribute to Open Source
